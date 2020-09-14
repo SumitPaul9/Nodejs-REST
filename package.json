@@ -1,0 +1,19 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "REST api using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitpauljindal/Nodejs-REST.git"
+  },
+  "author": "Sumit Jindal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitpauljindal/Nodejs-REST/issues"
+  },
+  "homepage": "https://github.com/sumitpauljindal/Nodejs-REST#readme"
+}
